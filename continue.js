@@ -15,5 +15,4 @@ while (n < 15){
         continue;
     }
     console.log(n);
-    
 }
